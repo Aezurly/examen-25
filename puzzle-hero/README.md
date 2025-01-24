@@ -24,7 +24,10 @@ En quelle année sommes-nous? (Regarder l'image associée)
 ## Question 2 : Wordle
 
 - 2.1 Quel est le score minimal au Scrabble (Anglophone) si notre banque de mot est celui de Wordle
+> 5
+
 - 2.2 Quel est le mot qui peut rapporter le plus de points au Scrabble (Anglophone) si notre banque de mot est celui du Wordle?
+> 33 ? Jazzy
 
 ## Question 3 : Ingénieurs
 
